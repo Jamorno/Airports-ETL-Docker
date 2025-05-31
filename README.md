@@ -25,8 +25,6 @@ An end-to-end ETL (Extract, Transform, Load) project that loads global airport d
 
 ---
 
----
-
 ## How to Run
 
 ```bash
